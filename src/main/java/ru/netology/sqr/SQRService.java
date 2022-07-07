@@ -13,7 +13,7 @@ public class SQRService {
                 }
             }
         }
-        /*for (int i = 10; i <= 99; i++) {
+        /*for (int i = 1; i <= 99; i++) {
             int ii = i * i;
             if (ii >= min) {
                 if (ii <= max) {
